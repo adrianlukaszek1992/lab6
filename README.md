@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ShoppingListAdrian
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 "# TI" 
 >>>>>>> f4f2e1b647d736d866af7ed3563f6c345e52fe02
+=======
+# lab6
+>>>>>>> 64654d41b4cc1eb2bde97a3a77aff0e3861985f1
